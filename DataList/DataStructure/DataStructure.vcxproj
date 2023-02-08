@@ -139,11 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="arraylist.c" />
-    <ClCompile Include="DataStructure.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="arraylist.h" />
+    <ClCompile Include="LinkedList.c" />
+    <ClCompile Include="singlyLinkedList.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
